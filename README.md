@@ -15,7 +15,7 @@ Menurut _website : **android.com**_ , RecyclerView adalah ViewGroup yang berisi 
 Aplikasi ini dibuat sesuai tutorial youtube dari Dosen Bapak Fajar Butsianto (https://www.youtube.com/@sufajarbutsianto671) untuk membuat sebuah aplikasi android sederhana, dimana aplikasi tersebut ada data - data dari pemain klub sepak bola Real Madrid yang mana bila di klik untuk salah satu dari list pemain akan muncul data pribadi dari pemain tersebut.
 
 Berikut adalah hasil aplikasinya
-
+ 
 Tampilan Halaman Utama : <br>
 ![Home](Home.png)<br>
 
